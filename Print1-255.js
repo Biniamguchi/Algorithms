@@ -1,5 +1,5 @@
 function print1to255() {
-    for (var i = 1; i < 256; i++) {
+    for (var i = 1; i <= 255; i++) {
         console.log(i);
     }
 }
